@@ -1,0 +1,385 @@
+﻿NAME,SUB,ID,POP,DEM,REP,SHARE
+"Abilene, TX Metro Area",abilene,10180,176579,16321,51219,100
+"Akron, OH Metro Area",akron,10420,702219,187329,170823,100
+"Albany, GA Metro Area",albanyga,10500,148922,33897,31282,100
+"Albany-Lebanon, OR Metro Area",albanyor,10540,128610,26512,43486,100
+"Albany-Schenectady-Troy, NY Metro Area",albany,10580,899262,256724,188930,100
+"Albuquerque, NM Metro Area",albuquerque,10740,916528,250952,172445,100
+"Alexandria, LA Metro Area",centrallouisiana,10780,152192,20632,46464,100
+"Allentown-Bethlehem-Easton, PA-NJ Metro Area",lehighvalley,10900,861889,219488,224866,100
+"Altoona, PA Metro Area",altoona,11020,122822,17636,45306,100
+"Amarillo, TX Metro Area",amarillo,11100,268761,23176,78347,100
+"Ames, IA Metro Area",ames,11180,125252,35478,29035,100
+"Anchorage, AK Metro Area",anchorage,11260,398328,85169,110526,100
+"Ann Arbor, MI Metro Area",annarbor,11460,372258,157136,56241,100
+"Anniston-Oxford, AL Metro Area",oxfordal,11500,116441,15216,35101,100
+"Appleton, WI Metro Area",appleton,11540,243147,59783,76541,100
+"Asheville, NC Metro Area",asheville,11700,469015,141771,133257,100
+"Athens-Clarke County, GA Metro Area",athens,12020,215415,50067,47963,100
+"Atlanta-Sandy Springs-Alpharetta, GA Metro Area",atlanta,12060,6089815,1684934,1203788,100
+"Atlantic City-Hammonton, NJ Metro Area",atlanticcity,12100,274534,73808,64438,100
+"Auburn-Opelika, AL Metro Area",opelika,12220,174241,27860,42221,100
+"Augusta-Richmond County, GA-SC Metro Area",augusta,12260,611000,136387,148135,100
+"Austin-Round Rock-Georgetown, TX Metro Area",austin,12420,2283371,661325,377293,100
+"Bakersfield, CA Metro Area",bakersfield,12540,909235,133366,164484,100
+"Baltimore-Columbia-Towson, MD Metro Area",baltimore,12580,2844510,878185,507676,100
+"Bangor, ME Metro Area",bangor,12620,152199,37713,44825,100
+"Barnstable Town, MA Metro Area",capecod,12700,228996,91994,55311,100
+"Baton Rouge, LA Metro Area",batonrouge,12940,870569,179863,226976,100
+"Battle Creek, MI Metro Area",battlecreek,12980,134310,28877,36221,100
+"Bay City, MI Metro Area",baycitymichigan,13020,103856,26151,33125,100
+"Beaumont-Port Arthur, TX Metro Area",beaumont,13140,397565,55904,100614,100
+"Beckley, WV Metro Area",beckleywv,13220,115079,13045,36253,100
+"Bellingham, WA Metro Area",bellingham,13380,226847,83660,50489,100
+"Bend, OR Metro Area",bend,13460,198253,65962,55646,100
+"Billings, MT Metro Area",billings,13740,184167,34256,59702,100
+"Binghamton, NY Metro Area",binghamton,13780,247138,56636,58582,100
+"Birmingham-Hoover, AL Metro Area",birmingham,13820,1115289,230399,303030,100
+"Bismarck, ND Metro Area",bismarck,13900,133626,18349,47905,100
+"Blacksburg-Christiansburg, VA Metro Area",blacksburg,13980,166378,33657,42418,100
+"Bloomington, IL Metro Area",bloomington,14010,170954,43933,40502,100
+"Bloomington, IN Metro Area",bloomingtonnormal,14020,161039,42281,29357,100
+"Bloomsburg-Berwick, PA Metro Area",bloomsburg,14100,82863,14303,25942,100
+"Boise City, ID Metro Area",boise,14260,764718,150243,207713,100
+"Boston-Cambridge-Newton, MA-NH Metro Area",boston,14460,4941632,1743643,803274,100
+"Boulder, CO Metro Area",boulder,14500,330758,159089,42501,100
+"Bowling Green, KY Metro Area",bowlinggreen,14540,179639,26427,49166,100
+"Bremerton-Silverdale-Port Orchard, WA Metro Area",bremerton,14740,275611,90277,61563,100
+"Bridgeport-Stamford-Norwalk, CT Metro Area",stamfordct,14860,957419,297505,168445,100
+"Brownsville-Harlingen, TX Metro Area",brownsville,15180,421017,64063,49032,100
+"Brunswick, GA Metro Area",brunswickga,15260,113495,19194,36626,100
+"Buffalo-Cheektowaga, NY Metro Area",buffalo,15380,1166902,313299,253620,100
+"Burlington, NC Metro Area",burlingtonnc,15500,225562,38825,46056,100
+"Burlington-South Burlington, VT Metro Area",burlington,15540,171415,91477,34101,100
+"California-Lexington Park, MD Metro Area",somd,15680,113777,23138,30826,100
+"Canton-Massillon, OH Metro Area",canton,15940,401574,79155,121842,100
+"Cape Coral-Fort Myers, FL Metro Area",capecoral,15980,760822,157695,233247,100
+"Cape Girardeau, MO-IL Metro Area",capegirardeau,16020,97517,12624,35560,100
+"Carbondale-Marion, IL Metro Area",carbondale,16060,133435,22668,38750,100
+"Carson City, NV Metro Area",carsoncity,16180,58639,12735,16113,100
+"Casper, WY Metro Area",casper,16220,79955,8530,25271,100
+"Cedar Rapids, IA Metro Area",cedarrapids,16300,276520,80247,69124,100
+"Chambersburg-Waynesboro, PA Metro Area",chambersburg,16540,155932,22422,57245,100
+"Champaign-Urbana, IL Metro Area",champaign,16580,222538,60396,41533,100
+"Charleston, WV Metro Area",charlestonwv,16620,258859,41944,71998,100
+"Charleston-North Charleston, SC Metro Area",charleston,16700,799636,200532,192607,100
+"Charlotte-Concord-Gastonia, NC-SC Metro Area",charlotte,16740,2660329,680904,675531,100
+"Charlottesville, VA Metro Area",charlottesville,16820,221524,79066,35576,100
+"Chattanooga, TN-GA Metro Area",chattanooga,16860,562647,93960,162280,100
+"Cheyenne, WY Metro Area",cheyenne,16940,100512,15217,27891,100
+"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",chicago,16980,9618502,2883015,1475610,100
+"Chico, CA Metro Area",chicoca,17020,211632,50426,48730,100
+"Cincinnati, OH-KY-IN Metro Area",cincinnati,17140,2256884,487184,647633,100
+"Clarksville, TN-KY Metro Area",clarksville,17300,320535,43791,67704,100
+"Cleveland, TN Metro Area",clevelandtn,17420,126164,11343,41996,100
+"Cleveland-Elyria, OH Metro Area",cleveland,17460,2088251,608358,454238,100
+"Coeur d'Alene, ID Metro Area",coeurdalene,17660,171362,24312,62837,100
+"College Station-Bryan, TX Metro Area",collegestation,17780,268248,39511,59919,100
+"Colorado Springs, CO Metro Area",coloradosprings,17820,755105,167219,214069,100
+"Columbia, MO Metro Area",columbiamo,17860,210864,53726,48471,100
+"Columbia, SC Metro Area",columbiasc,17900,829470,208820,186741,100
+"Columbus, GA-AL Metro Area",columbusga,17980,328883,71406,59638,100
+"Columbus, IN Metro Area",columbusin,18020,82208,12934,22410,100
+"Columbus, OH Metro Area",columbus,18140,2138926,567327,480172,100
+"Corpus Christi, TX Metro Area",corpus,18580,421933,69913,81133,100
+"Corvallis, OR Metro Area",corvallis,18700,95184,35827,14878,100
+"Crestview-Fort Walton Beach-Destin, FL Metro Area",destin,18880,286973,44586,112745,100
+"Cumberland, MD-WV Metro Area",cumberland_maryland,19060,95044,11818,30926,100
+"Dallas-Fort Worth-Arlington, TX Metro Area",dallas,19100,7637387,1535525,1466387,100
+"Dalton, GA Metro Area",daltonga,19140,142837,12981,38588,100
+"Danville, IL Metro Area",danvilleil,19180,74188,10323,20725,100
+"Daphne-Fairhope-Foley, AL Metro Area",baldwincountyal,19300,231767,24578,83544,100
+"Davenport-Moline-Rock Island, IA-IL Metro Area",quadcities,19340,384324,96694,93004,100
+"Dayton-Kettering, OH Metro Area",dayton,19430,814049,185525,222477,100
+"Decatur, AL Metro Area",decaturalabama,19460,156494,16796,51986,100
+"Decatur, IL Metro Area",decaturillinois,19500,103998,19847,28589,100
+"Deltona-Daytona Beach-Ormond Beach, FL Metro Area",deltona,19660,668921,158736,216864,100
+"Denver-Aurora-Lakewood, CO Metro Area",denver,19740,2963821,1024844,603431,100
+"Des Moines-West Des Moines, IA Metro Area",desmoines,19780,709466,201603,181588,100
+"Detroit-Warren-Dearborn, MI Metro Area",detroit,19820,4392041,1351220,1026036,100
+"Dothan, AL Metro Area",dothan,20020,151007,17118,50073,100
+"Dover, DE Metro Area",doverde,20100,181851,44552,41009,100
+"Dubuque, IA Metro Area",dubuque,20220,99266,25657,27214,100
+"Duluth, MN-WI Metro Area",duluth,20260,291638,94667,73124,100
+"Durham-Chapel Hill, NC Metro Area",bullcity,20500,649903,258099,103652,100
+"East Stroudsburg, PA Metro Area",stroudsburg,20700,168327,44060,38726,100
+"Eau Claire, WI Metro Area",eau_claire,20740,172007,45603,46658,100
+"El Centro, CA Metro Area",calexicoca,20940,179702,34678,20847,100
+"El Paso, TX Metro Area",elpaso,21300,868859,178497,85110,100
+"Elizabethtown-Fort Knox, KY Metro Area",elizabethtown,21340,155572,23237,45702,100
+"Elkhart-Goshen, IN Metro Area",elkhart,21060,207047,26108,46972,100
+"Elmira, NY Metro Area",elmirany,21140,84148,16636,21922,100
+"Enid, OK Metro Area",enidamerica,21420,62846,4919,16970,100
+"Erie, PA Metro Area",erie,21500,270876,68286,66869,100
+"Eugene-Springfield, OR Metro Area",eugene,21660,382971,134366,80336,100
+"Evansville, IN-KY Metro Area",evansville,21780,314049,57738,85106,100
+"Fairbanks, AK Metro Area",fairbanks,21820,95655,17033,22028,100
+"Fargo, ND-MN Metro Area",fargo,22020,249843,56668,57662,100
+"Farmington, NM Metro Area",fourcorners,22140,121661,18083,32874,100
+"Fayetteville, NC Metro Area",fayettenam,22180,520378,118366,104662,100
+"Fayetteville-Springdale-Rogers, AR Metro Area",fayetteville,22220,546725,87636,127127,100
+"Flagstaff, AZ Metro Area",flagstaff,22380,145101,44698,27052,100
+"Flint, MI Metro Area",flint,22420,406211,119390,98714,100
+"Florence, SC Metro Area",florencesc,22500,199964,46373,49447,100
+"Florence-Muscle Shoals, AL Metro Area",florenceal,22520,150791,20258,50924,100
+"Fond du Lac, WI Metro Area",fonddulac,22540,104154,20588,35754,100
+"Fort Collins, CO Metro Area",fortcollins,22660,359066,126120,91489,100
+"Fort Smith, AR-OK Metro Area",ftsmithar,22900,244310,23781,67595,100
+"Fort Wayne, IN Metro Area",fortwayne,23060,419601,77423,104945,100
+"Fresno, CA Metro Area",fresno,23420,1008654,193025,164464,100
+"Gadsden, AL Metro Area",gadsden,23460,103436,11567,35528,100
+"Gainesville, FL Metro Area",gnv,23540,339247,97609,75616,100
+"Gainesville, GA Metro Area",gainesvillega,23580,203136,25033,64183,100
+"Gettysburg, PA Metro Area",gettysburg,23900,103852,18207,37523,100
+"Glens Falls, NY Metro Area",glensfalls,24020,127039,29207,33640,100
+"Goldsboro, NC Metro Area",goldsboronc,24140,117333,24215,30709,100
+"Grand Forks, ND-MN Metro Area",grandforks,24220,104362,18319,26852,100
+"Grand Island, NE Metro Area",gineb,24260,77038,9072,22394,100
+"Grand Junction, CO Metro Area",grandjunction,24300,155703,31536,56894,100
+"Grand Rapids-Kentwood, MI Metro Area",grandrapids,24340,1087592,273224,309126,100
+"Grants Pass, OR Metro Area",grantspass,24420,88090,18451,31751,100
+"Great Falls, MT Metro Area",greatfalls,24500,84414,15456,23315,100
+"Greeley, CO Metro Area",greeley,24540,328981,66060,96145,100
+"Green Bay, WI Metro Area",greenbay,24580,328268,76202,100024,100
+"Greensboro-High Point, NC Metro Area",gso,24660,776566,204696,195489,100
+"Greenville, NC Metro Area",greenvillencarolina,24780,170243,38982,47252,100
+"Greenville-Anderson, SC Metro Area",greenville,24860,928195,154003,280497,100
+"Gulfport-Biloxi, MS Metro Area",biloxi,25060,416259,51409,105213,100
+"Hagerstown-Martinsburg, MD-WV Metro Area",hagerstown,25180,293844,45228,80040,100
+"Hammond, LA Metro Area",hammond,25220,133157,18887,37806,100
+"Hanford-Corcoran, CA Metro Area",hanford,25260,152486,18699,24072,100
+"Harrisburg-Carlisle, PA Metro Area",harrisburg,25420,591712,147178,161913,100
+"Harrisonburg, VA Metro Area",harrisonburg,25500,135571,23666,35940,100
+"Hartford-East Hartford-Middletown, CT Metro Area",hartford,25540,1213531,384367,234527,100
+"Hattiesburg, MS Metro Area",hattiesburg,25620,172231,25873,48348,100
+"Hickory-Lenoir-Morganton, NC Metro Area",hickorync,25860,365276,53197,135614,100
+"Hilton Head Island-Bluffton, SC Metro Area",hiltonhead,25940,215908,50604,60272,100
+"Hinesville, GA Metro Area",hinesvillega,25980,81424,15139,11486,100
+"Homosassa Springs, FL Metro Area",homosassa,26140,153843,27092,65352,100
+"Hot Springs, AR Metro Area",hotsprings,26300,100180,14045,29069,100
+"Houma-Thibodaux, LA Metro Area",houma,26380,207137,19870,70363,100
+"Houston-The Woodlands-Sugar Land, TX Metro Area",houston,26420,7122240,1330116,1302436,100
+"Huntington-Ashland, WV-KY-OH Metro Area",huntingtonwv,26580,359862,49047,110780,100
+"Huntsville, AL Metro Area",huntsvillealabama,26620,491723,100958,137420,100
+"Idaho Falls, ID Metro Area",idahofalls,26820,157429,16103,51106,100
+"Indianapolis-Carmel-Anderson, IN Metro Area",indianapolis,26900,2111040,460951,483480,100
+"Iowa City, IA Metro Area",iowacity,26980,175419,63738,29896,100
+"Ithaca, NY Metro Area",ithaca,27060,105740,33619,11096,100
+"Jackson, MI Metro Area",jacksonmi,27100,160366,31995,47372,100
+"Jackson, MS Metro Area",jacksonms,27140,591978,139428,127213,100
+"Jackson, TN Metro Area",jacksontn,27180,180504,26955,50827,100
+"Jacksonville, FL Metro Area",jacksonville,27260,1605848,372324,483665,100
+"Jacksonville, NC Metro Area",onslowcounty,27340,204576,24266,46078,100
+"Janesville-Beloit, WI Metro Area",janesville,27500,163687,46658,37138,100
+"Jefferson City, MO Metro Area",jeffersoncity,27620,150309,20909,53070,100
+"Johnson City, TN Metro Area",johnsoncity,27740,207285,24782,66627,100
+"Johnstown, PA Metro Area",johnstown,27780,133472,21730,48085,100
+"Jonesboro, AR Metro Area",jonesboro,27860,134196,13345,31476,100
+"Joplin, MO Metro Area",joplinmo,27900,181409,19367,59848,100
+"Kahului-Wailuku-Lahaina, HI Metro Area",maui,27980,164754,47305,22126,100
+"Kalamazoo-Portage, MI Metro Area",kzoo,28020,261670,83686,56823,100
+"Kankakee, IL Metro Area",kankakee,28100,107502,20271,28532,100
+"Kansas City, MO-KS Metro Area",kansascity,28140,2192035,559595,508524,100
+"Kennewick-Richland, WA Metro Area",tricitieswa,28420,303622,52046,78404,100
+"Killeen-Temple, TX Metro Area",killeen,28660,475367,66723,91417,100
+"Kingsport-Bristol, TN-VA Metro Area",tricities,28700,307614,31977,112354,100
+"Kingston, NY Metro Area",hudsonvalley,28740,181851,57970,37590,20.7
+"Knoxville, TN Metro Area",knoxville,28940,879773,138943,262100,100
+"Kokomo, IN Metro Area",kokomo,29020,83658,13303,26449,100
+"La Crosse-Onalaska, WI-MN Metro Area",lacrossewi,29100,139627,42699,35018,100
+"Lafayette, LA Metro Area",lafayettela,29180,478384,69603,156499,100
+"Lafayette-West Lafayette, IN Metro Area",lafayette,29200,223716,39224,48075,100
+"Lake Charles, LA Metro Area",lakecharles,29340,222402,26306,58737,100
+"Lake Havasu City-Kingman, AZ Metro Area",lakehavasucity,29420,213267,24831,78535,100
+"Lakeland-Winter Haven, FL Metro Area",lakeland,29460,725046,145049,194586,100
+"Lancaster, PA Metro Area",lancaster,29540,552984,115847,160209,100
+"Lansing-East Lansing, MI Metro Area",lansing,29620,541297,162826,127684,100
+"Laredo, TX Metro Area",laredo,29700,267114,41280,25898,100
+"Las Cruces, NM Metro Area",lascruces,29740,219561,47957,32802,100
+"Las Vegas-Henderson-Paradise, NV Metro Area",vegas,29820,2265461,521852,430930,100
+"Lawrence, KS Metro Area",lawrence,29940,118785,40785,17286,100
+"Lawton, OK Metro Area",lawton,30020,126652,14140,23022,100
+"Lebanon, PA Metro Area",lebanonpa,30140,143257,23932,46731,100
+"Lewiston, ID-WA Metro Area",lewistonid,30300,64375,10936,21057,100
+"Lewiston-Auburn, ME Metro Area",lamaine,30340,111139,27617,29268,100
+"Lexington-Fayette, KY Metro Area",lexington,30460,516811,125564,120086,100
+"Lima, OH Metro Area",lima,30620,102206,14149,33116,100
+"Lincoln, NE Metro Area",lincoln,30700,340217,84731,76582,100
+"Little Rock-North Little Rock-Conway, AR Metro Area",littlerock,30780,748031,145320,170821,100
+"Logan, UT-ID Metro Area",logan,30860,147348,17307,43877,100
+"Longview, TX Metro Area",longviewtx,30980,286184,30210,86302,100
+"Longview, WA Metro Area",longview,31020,110730,23938,34424,100
+"Los Angeles-Long Beach-Anaheim, CA Metro Area",losangeles,31080,13200998,3842894,1822028,100
+"Louisville/Jefferson County, KY-IN Metro Area",louisville,31140,1285439,314895,314390,100
+"Lubbock, TX Metro Area",lubbock,31180,321368,40972,82110,100
+"Lynchburg, VA Metro Area",lynchburg,31340,261593,46384,91685,100
+"Macon-Bibb County, GA Metro Area",macon,31420,233802,56334,54354,100
+"Madera, CA Metro Area",madera,31460,156255,23168,29378,100
+"Madison, WI Metro Area",madisonwi,31540,680796,295210,111799,100
+"Manchester-Nashua, NH Metro Area",manchesternh,31700,422937,122344,104625,100
+"Manhattan, KS Metro Area",littleapple,31740,134046,20061,26385,100
+"Mankato, MN Metro Area",mankato,31860,103566,27952,25749,100
+"Mansfield, OH Metro Area",mansfield,31900,124936,17640,41472,100
+"McAllen-Edinburg-Mission, TX Metro Area",riograndevalley,32580,870781,128199,90527,100
+"Medford, OR Metro Area",medford,32780,223259,59478,63869,100
+"Memphis, TN-MS-AR Metro Area",memphis,32820,1337779,311568,236569,100
+"Merced, CA Metro Area",merced,32900,281202,48991,39397,100
+"Miami-Fort Lauderdale-Pompano Beach, FL Metro Area",miami,33100,6138333,1670188,1200953,100
+"Michigan City-La Porte, IN Metro Area",laportein,33140,112417,22427,25997,100
+"Midland, MI Metro Area",midland_mi,33220,83494,20493,27675,100
+"Midland, TX Metro Area",midessa,33260,175220,12617,47481,51.5
+"Milwaukee-Waukesha, WI Metro Area",milwaukee,33340,1574731,474600,388280,100
+"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",minneapolis,33460,3690261,1259771,843877,100
+"Missoula, MT Metro Area",missoula,33540,117922,43357,26347,100
+"Mobile, AL Metro Area",mobile,33660,430197,81732,107807,100
+"Modesto, CA Metro Area",modesto,33700,552878,105841,104145,100
+"Monroe, LA Metro Area",monroela,33740,207104,33513,57172,100
+"Monroe, MI Metro Area",monroemi,33780,154809,32975,52710,100
+"Montgomery, AL Metro Area",montgomery,33860,386047,87371,85149,100
+"Morgantown, WV Metro Area",morgantownwv,34060,140038,23445,31993,100
+"Morristown, TN Metro Area",morristowntn,34100,142709,11621,46027,100
+"Mount Vernon-Anacortes, WA Metro Area",sanjuanislands,34580,129523,38252,32762,100
+"Muncie, IN Metro Area",muncie,34620,111903,20474,26827,100
+"Muskegon, MI Metro Area",muskegon,34740,175824,45643,45133,100
+"Myrtle Beach-Conway-North Myrtle Beach, SC-NC Metro Area",myrtlebeach,34820,487722,92490,174671,100
+"Napa, CA Metro Area",napa,34900,138019,49817,20676,100
+"Naples-Marco Island, FL Metro Area",naples_fl,34940,375752,77621,128950,100
+"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",nashville,34980,1989519,399251,493356,100
+"New Bern, NC Metro Area",newbern,35100,122168,26058,39161,100
+"New Haven-Milford, CT Metro Area",newhaven,35300,864835,242630,169893,100
+"New Orleans-Metairie, LA Metro Area",neworleans,35380,1271845,309534,282595,100
+"New York-Newark-Jersey City, NY-NJ-PA Metro Area",nyc,35620,20140470,5385675,3001547,100
+"Niles, MI Metro Area",bentonharbor,35660,154316,37438,43519,100
+"North Port-Sarasota-Bradenton, FL Metro Area",sarasota,35840,833716,210276,273357,100
+"Norwich-New London, CT Metro Area",newlondoncounty,35980,268555,79459,57110,100
+"Ocala, FL Metro Area",ocala,36100,375908,74858,127826,100
+"Ocean City, NJ Metro Area",capemay,36140,95263,23941,33158,100
+"Odessa, TX Metro Area",midessa,36220,165171,11367,32697,48.5
+"Ogden-Clearfield, UT Metro Area",ogden,36260,694863,103665,196813,100
+"Oklahoma City, OK Metro Area",okc,36420,1425695,224083,316731,100
+"Olympia-Lacey-Tumwater, WA Metro Area",olympia,36500,294793,96608,65277,100
+"Omaha-Council Bluffs, NE-IA Metro Area",omaha,36540,967604,226701,236351,100
+"Orlando-Kissimmee-Sanford, FL Metro Area",orlando,36740,2673376,708344,569978,100
+"Oshkosh-Neenah, WI Metro Area",oshkosh,36780,171730,44060,47796,100
+"Owensboro, KY Metro Area",owensboro,36980,121559,19711,37803,100
+"Oxnard-Thousand Oaks-Ventura, CA Metro Area",venturacounty,37100,843843,251388,162207,100
+"Palm Bay-Melbourne-Titusville, FL Metro Area",321,37340,606612,148549,207883,100
+"Panama City, FL Metro Area",panamacity,37460,175216,25614,66097,100
+"Parkersburg-Vienna, WV Metro Area",parkersburg,37620,89490,11392,29336,100
+"Pensacola-Ferry Pass-Brent, FL Metro Area",pensacola,37860,509905,98541,174059,100
+"Peoria, IL Metro Area",peoriail,37900,402391,83880,111632,100
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area",philadelphia,37980,6245051,2159402,1162186,100
+"Phoenix-Mesa-Chandler, AZ Metro Area",phoenix,38060,4845832,1115880,1102742,100
+"Pine Bluff, AR Metro Area",pinebluff,38220,87751,16664,15117,100
+"Pittsburgh, PA Metro Area",pittsburgh,38300,2370930,652507,683045,100
+"Pittsfield, MA Metro Area",pittsfield,38340,129026,51705,18064,100
+"Pocatello, ID Metro Area",pocatello,38540,94896,15547,25447,100
+"Port St. Lucie, FL Metro Area",portstlucie,38940,487657,121030,147549,100
+"Portland-South Portland, ME Metro Area",portlandme,38860,487657,213476,124156,100
+"Portland-Vancouver-Hillsboro, OR-WA Metro Area",portland,38900,551740,900757,469466,100
+"Poughkeepsie-Newburgh-Middletown, NY Metro Area",hudsonvalley,39100,697221,166398,151940,79.3
+"Prescott Valley-Prescott, AZ Metro Area",prescott,39150,236209,49602,91527,100
+"Providence-Warwick, RI-MA Metro Area",rhodeisland,39300,1676579,459587,319709,100
+"Provo-Orem, UT Metro Area",provoutah,39340,671185,76678,197899,100
+"Pueblo, CO Metro Area",pueblo,39380,168162,43772,42252,100
+"Punta Gorda, FL Metro Area",puntagorda,39460,186847,42273,73243,100
+"Racine, WI Metro Area",racine,39540,197727,50159,54479,100
+"Raleigh-Cary, NC Metro Area",raleigh,39580,1413982,450472,315451,100
+"Rapid City, SD Metro Area",rapidcity,39660,139074,23891,44938,100
+"Reading, PA Metro Area",readingpa,39740,428849,92895,109736,100
+"Redding, CA Metro Area",redding,39820,182155,30000,60789,100
+"Reno, NV Metro Area",reno,39900,490596,129030,118668,100
+"Richmond, VA Metro Area",rva,40060,1314434,406856,300888,100
+"Riverside-San Bernardino-Ontario, CA Metro Area",inlandempire,40140,4599839,984199,815401,100
+"Roanoke, VA Metro Area",roanoke,40220,315251,68390,96088,100
+"Rochester, MN Metro Area",rochestermn,40340,226329,62817,62929,100
+"Rochester, NY Metro Area",rochester,40380,1090135,294234,237163,100
+"Rockford, IL Metro Area",rockford,40420,338798,74598,74744,100
+"Rocky Mount, NC Metro Area",rockymountnc,40580,143870,42036,35033,100
+"Rome, GA Metro Area",romega,40660,98584,11917,28906,100
+"Sacramento-Roseville-Folsom, CA Metro Area",sacramento,40900,2397382,666896,471023,100
+"Saginaw, MI Metro Area",saginaw,40980,190124,51088,50785,100
+"Salem, OR Metro Area",salem,41420,433353,103789,102734,100
+"Salinas, CA Metro Area",salinas,41500,439035,113953,46299,100
+"Salisbury, MD-DE Metro Area",oceancity,41540,418046,95537,118484,100
+"Salt Lake City, UT Metro Area",saltlakecity,41620,1257936,298849,251188,100
+"San Angelo, TX Metro Area",san_angelo,41660,122888,12410,33656,100
+"San Antonio-New Braunfels, TX Metro Area",sanantonio,41700,2558143,529607,495195,100
+"San Diego-Chula Vista-Carlsbad, CA Metro Area",sandiego,41740,3298634,964650,600094,100
+"San Francisco-Oakland-Berkeley, CA Metro Area",sanfrancisco,41860,4749008,1831985,445799,100
+"San Jose-Sunnyvale-Santa Clara, CA Metro Area",sanjose,41940,2000468,635595,225202,100
+"San Luis Obispo-Paso Robles, CA Metro Area",slo,42020,282424,88310,67436,100
+"Santa Cruz-Watsonville, CA Metro Area",santacruz,42100,270861,114246,26937,100
+"Santa Fe, NM Metro Area",santafe,42140,154823,62530,18329,100
+"Santa Maria-Santa Barbara, CA Metro Area",santabarbara,42200,448229,129963,65736,100
+"Santa Rosa-Petaluma, CA Metro Area",santarosa,42220,488863,199938,61825,100
+"Savannah, GA Metro Area",savannah,42340,404798,92703,90833,100
+"Scranton--Wilkes-Barre, PA Metro Area",scranton,42540,567559,131568,149199,100
+"Seattle-Tacoma-Bellevue, WA Metro Area",seattle,42660,4018762,1413544,633325,100
+"Sebastian-Vero Beach, FL Metro Area",verobeach,42680,159788,37844,58872,100
+"Sebring-Avon Park, FL Metro Area",sebring,42700,101235,16938,34873,100
+"Sheboygan, WI Metro Area",sheboygan,43100,118034,27101,37609,100
+"Sherman-Denison, TX Metro Area",shermantx,43300,135543,14506,44163,100
+"Shreveport-Bossier City, LA Metro Area",shreveport,43340,393406,76229,95207,100
+"Sierra Vista-Douglas, AZ Metro Area",sierravista,43420,125447,23732,35557,100
+"Sioux City, IA-NE-SD Metro Area",siouxcity,43580,149940,24824,37941,100
+"Sioux Falls, SD Metro Area",siouxfalls,43620,276730,54371,74224,100
+"South Bend-Mishawaka, IN-MI Metro Area",southbend,43780,324501,69026,69863,100
+"Spartanburg, SC Metro Area",spartanburg,43900,327997,52926,93560,100
+"Spokane-Spokane Valley, WA Metro Area",spokane,44060,585784,143604,168384,100
+"Springfield, IL Metro Area",springfieldil,44100,208640,50939,58249,100
+"Springfield, MA Metro Area",springfield,44140,699162,219340,120800,100
+"Springfield, MO Metro Area",springfieldmo,44180,475432,74037,151899,100
+"Springfield, OH Metro Area",springfieldoh,44220,136001,24076,39032,100
+"St. Cloud, MN Metro Area",saintcloud,41060,199671,39159,65341,100
+"St. George, UT Metro Area",stgeorge,41100,180279,20530,67294,100
+"St. Joseph, MO-KS Metro Area",stjoseph,41140,121467,17412,36509,100
+"St. Louis, MO-IL Metro Area",stlouis,41180,2820253,741752,693693,100
+"State College, PA Metro Area",statecollege,44300,158172,40055,36372,100
+"Staunton, VA Metro Area",staunton,44420,125433,22782,41916,100
+"Stockton, CA Metro Area",stockton,44700,779233,161137,121098,100
+"Sumter, SC Metro Area",sumter,44940,136700,35629,29361,100
+"Syracuse, NY Metro Area",syracuse,45060,662057,174941,142266,100
+"Tallahassee, FL Metro Area",tallahassee,45220,384298,128918,82271,100
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",tampa,45300,3175275,810409,853640,100
+"Terre Haute, IN Metro Area",terrehaute,45460,185031,26476,51319,100
+"Texarkana, TX-AR Metro Area",texarkana,45500,147519,16218,42751,100
+"The Villages, FL Metro Area",thevillagesflorida,45540,129752,29341,62761,100
+"Toledo, OH Metro Area",toledo,45780,646604,161700,147879,100
+"Topeka, KS Metro Area",topeka,45820,233152,51190,59844,100
+"Trenton-Princeton, NJ Metro Area",trenton,45940,387340,122532,51641,100
+"Tucson, AZ Metro Area",tucson,46060,1043433,304981,207758,100
+"Tulsa, OK Metro Area",tulsa,46140,1015331,140991,253452,100
+"Tuscaloosa, AL Metro Area",tuscaloosa,46220,268674,50334,60778,100
+"Twin Falls, ID Metro Area",twinfalls,46300,114283,11284,31631,100
+"Tyler, TX Metro Area",tylertx,46340,233479,29615,69080,100
+"Urban Honolulu, HI Metro Area",honolulu,46520,1016508,238869,136259,100
+"Utica-Rome, NY Metro Area",utica,46540,292264,51912,76731,100
+"Valdosta, GA Metro Area",valdosta,46660,148126,24093,33718,100
+"Vallejo, CA Metro Area",vallejo,46700,453491,131639,69306,100
+"Victoria, TX Metro Area",vtown,47020,98331,11257,26443,100
+"Vineland-Bridgeton, NJ Metro Area",vineland,47220,154152,32742,28952,100
+"Virginia Beach-Norfolk-Newport News, VA-NC Metro Area",norfolk,47260,1799674,481915,355016,100
+"Visalia, CA Metro Area",visalia,47300,473117,66105,77579,100
+"Waco, TX Metro Area",waco,47380,277547,38587,63720,100
+"Walla Walla, WA Metro Area",wallawalla,47460,62584,13690,16400,100
+"Warner Robins, GA Metro Area",warnerrobins,47580,191614,38161,48046,100
+"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",washingtondc,47900,6385162,2320658,818418,100
+"Waterloo-Cedar Falls, IA Metro Area",waterlooiowa,47940,168461,43811,42863,100
+"Watertown-Fort Drum, NY Metro Area",watertownny,48060,116721,17307,25629,100
+"Wausau-Weston, WI Metro Area",wausau,48140,166428,37069,54641,100
+"Weirton-Steubenville, WV-OH Metro Area",steubenville,48260,116903,16755,40179,100
+"Wenatchee, WA Metro Area",wenatchee,48300,122012,27160,35701,100
+"Wheeling, WV-OH Metro Area",wheelingwv,48540,139513,19816,46349,100
+"Wichita Falls, TX Metro Area",wichitafalls,48660,148128,14221,41438,100
+"Wichita, KS Metro Area",wichita,48620,148128,114389,163337,100
+"Williamsport, PA Metro Area",williamsport,48700,647610,16971,41462,100
+"Wilmington, NC Metro Area",wilmington,48900,285905,77861,85287,100
+"Winchester, VA-WV Metro Area",winchester,49020,142632,25756,43812,100
+"Winston-Salem, NC Metro Area",winstonsalem,49180,675966,151431,204027,100
+"Worcester, MA-CT Metro Area",worcesterma,49340,978529,275479,200824,100
+"Yakima, WA Metro Area",yakima,49420,256728,43179,50555,100
+"York-Hanover, PA Metro Area",yorkpa,49620,456438,88114,146733,100
+"Youngstown-Warren-Boardman, OH-PA Metro Area",youngstown,49660,541243,123227,151240,100
+"Yuba City, CA Metro Area",yubacity,49700,181208,28597,42051,100
+"Yuma, AZ Metro Area",yuma,49740,203881,32210,36534,100
