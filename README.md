@@ -1,3 +1,3 @@
 # reddit-map
 
-Made with Golang, Python, and JavaScript
+Made with Python, and JavaScript
