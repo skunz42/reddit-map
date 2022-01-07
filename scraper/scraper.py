@@ -41,6 +41,36 @@ def fetch_token(auth):
     headers = {**headers, **{'Authorization':f"bearer {token}"}}
     return headers
 
+def get_subscribers(metros, headers):
+    print("Getting data from Reddit API...")
+    dynamodb = boto3.resource('dynamodb', endpoint_url='http://dynamodb.us-east-2.amazonaws.com')
+    table = dynamodb.Table('map_subscribers')
+    response = table.scan(AttributesToGet=['subreddit', 'id', 'share', 'metro'])
+    for r in response['Items']:
+        sub = r['subreddit']
+        city = r['id']
+        share = float(r['share'])
+        metro_name = r['metro']
+        reddit_response = requests.get(f'https://oauth.reddit.com/r/{sub}/about', headers=headers)
+        subscribers = reddit_response.json()['data']['subscribers']
+        metros[city] = (int(subscribers*(share/100.0)), sub, metro_name)
+
+    print("Updating db...")
+    
+    for cid in metros:
+        table.update_item(
+            Key = {
+                'id': cid,
+                'metro': metros[cid][2]
+            },
+            UpdateExpression="set subscribers=:s",
+            ExpressionAttributeValues={
+                ':s': metros[cid][0]
+            }
+        )
+
+    print("Db updated")
+
 def main():
     if len(sys.argv) != 2:
         print("Need one argument")
@@ -52,7 +82,8 @@ def main():
 
     headers = fetch_token(auth)
 
-    me = requests.get('https://oauth.reddit.com/r/abilene/about', headers=headers)
-    print(me.json()['data']['subscribers'])
+    metros = {}
+    get_subscribers(metros, headers)
+
 
 main()
