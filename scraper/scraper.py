@@ -2,6 +2,7 @@ import requests
 import os
 import sys
 import boto3
+import json
 
 def set_up_db_creds(filename):
     fileDir = os.path.dirname(os.path.realpath('__file__'))
@@ -58,18 +59,36 @@ def get_subscribers(metros, headers):
     print("Updating db...")
     
     for cid in metros:
-        table.update_item(
-            Key = {
-                'id': cid,
-                'metro': metros[cid][2]
-            },
-            UpdateExpression="set subscribers=:s",
-            ExpressionAttributeValues={
-                ':s': metros[cid][0]
-            }
-        )
+        while True:
+            try:
+                table.update_item(
+                    Key = {
+                        'id': cid,
+                        'metro': metros[cid][2]
+                    },
+                    UpdateExpression="set subscribers=:s",
+                    ExpressionAttributeValues={
+                    ':s': metros[cid][0]
+                    }
+                )
+            except ProvisionedThroughputExceededException:
+                print("Throughput exception - retrying...")
+                sleep(5)
+                continue
+            break
 
     print("Db updated")
+
+def update_json(metros):
+    geojson = None
+    with open("../json/all.geojson") as json_file:
+        geojson = json.load(json_file)
+        for i in range(len(geojson["features"])):
+            geojson["features"][i]["properties"]["subscribers"] = metros[geojson["features"][i]["properties"]["id"]][0]
+            print(f"{geojson['features'][i]['properties']['BASENAME']}\t{geojson['features'][i]['properties']['subscribers']}")
+
+    with open("../json/all.geojson", 'w') as json_file:
+        json.dump(geojson, json_file)
 
 def main():
     if len(sys.argv) != 2:
@@ -84,6 +103,6 @@ def main():
 
     metros = {}
     get_subscribers(metros, headers)
-    # update_json()
+    update_json(metros)
 
 main()
