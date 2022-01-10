@@ -52,7 +52,7 @@
           type: "simple",
           field: "mag",
           symbol: {
-            type: "simple-marker",
+            type: "simple-fill",
             color: "orange",
             outline: {
               color: "white"
@@ -60,16 +60,16 @@
           },
           visualVariables: [
             {
-              type: "size",
-              field: "mag",
+              type: "color",
+              field: "subscribers",
               stops: [
                 {
-                  value: 2.5,
-                  size: "4px"
+                  value: 2500,
+                  size: "#FFFCD4"
                 },
                 {
                   value: 8,
-                  size: "40px"
+                  size: "#0D2644"
                 }
               ]
             }
@@ -78,11 +78,11 @@
 
         const geojsonLayer = new GeoJSONLayer({
           url: url,
-          copyright: "USGS Earthquakes",
+          copyright: "lol",
           popupTemplate: template,
           renderer: renderer,
           orderBy: {
-            field: "mag"
+            field: "subscribers"
           }
         });
 
@@ -93,7 +93,7 @@
 
         const view = new MapView({
           container: "viewDiv",
-          center: [-168, 46],
+          center: [-98, 38],
           zoom: 2,
           map: map
         });
