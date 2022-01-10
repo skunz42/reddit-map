@@ -45,7 +45,7 @@
 
         const template = {
           title: "Subscriber Info",
-          content: "Number of subscribers on {subreddit}: {subscribers}",
+            content: "Metro: {BASENAME} - number of subscribers on r/{subreddit}: {subscribers}",
         };
 
         const renderer = {
@@ -61,12 +61,20 @@
               stops: [
                 {
                   value: 2500,
-                  size: "#FFFCD4"
+                  color: "#ffffcc"
                 },
                 {
                   value: 10000,
-                  size: "#0D2644"
-                }
+                  color: "#c2e699"
+                },
+		        {
+		          value: 25000,
+		          color: "#78c679"
+		        },
+		        {
+		          value: 100000,
+		          color: "#31a354"
+		        }
               ]
             }
           ]
